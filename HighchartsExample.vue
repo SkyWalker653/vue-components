@@ -8,7 +8,8 @@
     @rendered="onRender"/>
 </template>
 <script>
-  import VueHighcharts from 'https://cdn.skypack.dev/vue3-highcharts';
+  //import VueHighcharts from 'https://cdn.skypack.dev/vue3-highcharts';
+  import VueHighcharts from 'vue3-highcharts';
 
   export default {
     name: 'HighchartsExample',
