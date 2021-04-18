@@ -1,5 +1,5 @@
 <template>
-  <div id="app">
+  <div id="highcharts-example">
     <!-- <img alt="Vue logo" src="./assets/logo.png" width="25%"> -->
     <div id="container"></div>
   </div>
