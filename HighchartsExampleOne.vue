@@ -6,7 +6,7 @@
 </template>
 
 <script>
-import Highcharts from "highcharts";
+// import Highcharts from "highcharts";
 
 export default {
   name: "App",
