@@ -9,7 +9,7 @@
 </template>
 <script>
   //import VueHighcharts from 'https://cdn.skypack.dev/vue3-highcharts';
-  import VueHighcharts from 'https://unpkg.com/browse/vue3-highcharts@0.1.3/dist/vue3-highcharts.common.js'
+  import VueHighcharts from 'https://unpkg.com/browse/vue3-highcharts@0.1.3/dist/vue3-highcharts.common.mjs'
   //import VueHighcharts from 'vue3-highcharts';
 
   export default {
