@@ -5,8 +5,8 @@
   </div>
 </template>
 
-<script>
-// import Highcharts from "highcharts";
+<script type="module">
+import Highcharts from "highcharts";
 
 export default {
   name: "App",
