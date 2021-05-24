@@ -10,7 +10,7 @@ import { QBtn } from 'quasar'
 
 export default {
   components: {
-    QBtn
+    'q-btn': QBtn
   }
 }
 </script>
